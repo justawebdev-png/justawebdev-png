@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Sania
 
-<!--
-**justawebdev-png/justawebdev-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer focused on building web applications using Django, React, and modern frontend tools.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Django
+* Python
+* React
+* Vite
+* TypeScript (TSX)
+* HTML
+* CSS
+
+## Currently Working On
+
+* Building personal portfolio projects
+* Strengthening full-stack development skills
+
+## Open To
+
+* Freelance work
+* Collaboration
+* Learning opportunities
